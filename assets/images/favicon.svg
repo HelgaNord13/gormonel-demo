@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ГормонЭль">
+  <rect width="64" height="64" rx="14" fill="#EDF9FC"/>
+  <ellipse cx="26" cy="32" rx="16" ry="14" fill="#00A8BC" fill-opacity="0.95" transform="rotate(-28 26 32)"/>
+  <ellipse cx="38" cy="34" rx="15" ry="13" fill="#38A3CC" fill-opacity="0.82" transform="rotate(24 38 34)"/>
+</svg>

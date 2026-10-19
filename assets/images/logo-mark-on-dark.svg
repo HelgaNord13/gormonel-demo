@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" role="img" aria-label=">@<>=-;L">
+  <!-- Icon-only mark for dark backgrounds -->
+  <rect width="120" height="120" rx="28" fill="#0E3B40"/>
+  <ellipse cx="48" cy="60" rx="36" ry="30" fill="#7AD7E4" transform="rotate(-26 48 60)"/>
+  <ellipse cx="74" cy="62" rx="34" ry="28" fill="#B8EAF2" fill-opacity="0.92" transform="rotate(22 74 62)"/>
+</svg>
